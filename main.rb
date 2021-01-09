@@ -26,7 +26,12 @@ while nxt do
     
     
 str = a[0] + s[0] + a[1] + s[1] + a[2] + s[2] + a[3] + s[3] + s[4]
-puts str
+if (str != "tokopedia")
+    puts (str + " ❌")
+else
+    puts (str + " ✅")
+end
+
     str = ""
     index = 0
 end
