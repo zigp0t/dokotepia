@@ -1,3 +1,3 @@
 # dokotepia
 
-```ruby main.rb```
+run ```ruby main.rb```
