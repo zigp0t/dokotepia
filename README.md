@@ -1,0 +1,3 @@
+#dokotepia
+
+ruby main.rb
